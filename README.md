@@ -6,7 +6,7 @@
 #  Overview
 Human Assessment as a Service (HaaS) provides organizations with a structured, measurable approach to assess skills, behaviors, and leadership alignment. Combining leadership principles, AI insights, and cloud-enabled workflows, HaaS delivers actionable insights that drive operational excellence and growth.
 
-As **The UNLIT Crisis Leadership Tech Trainer**, I leverage HaaS to help organizations navigate emerging technologies with purpose, accountability, and measurable results.
+As **The Executive UNLIT Crisis Leadership Tech Trainer**, I leverage HaaS to help organizations navigate emerging technologies with purpose, accountability, and measurable results.
 
 ---
 
@@ -48,6 +48,6 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## About Me
-**Kelzlison – The Freedom Coach (TFC)**  
-UNLIT Leadership Tech Trainer | AI & Cloud Governance  
+**Kelzlison – The Freedom Coach**  
+Executive UNLIT Leadership Trainer | AI & Cloud Governance  
 *BE FREE; Live Your Mega Life*
