@@ -1,4 +1,4 @@
-# HaaS: Human Assessment as a Service
+# HaaS: Human Assessment as Service
 **A scalable framework for evaluating, developing, and optimizing human performance with integrity and impact.**
 
 ---
